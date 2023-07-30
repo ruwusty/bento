@@ -55,7 +55,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Notion',
 			icon: 'atom',
-			link: 'https://notion/so/rustys',
+			link: 'https://notion.so/rustys',
 
 		},
 		{
