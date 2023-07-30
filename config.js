@@ -53,9 +53,10 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Notion',
+			icon: 'atom',
+			link: 'https://notion/so/rustys',
+
 		},
 		{
 			id: '2',
@@ -65,9 +66,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Notion',
-			icon: 'notion',
-			link: 'https://notion/so/rustys',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 		{
 			id: '4',
@@ -77,9 +78,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'Lampada',
+			icon: 'lamp-desk',
+			link: 'https://lampada.shore.nsw.edu.au/',
 		},
 		{
 			id: '6',
